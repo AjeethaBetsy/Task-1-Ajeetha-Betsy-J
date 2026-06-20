@@ -40,7 +40,7 @@ The site includes a navigation bar with a mobile hamburger menu, a hero banner, 
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 Task-1-Ajeetha-Betsy-J/
 │
 ├── index.html              → Page structure and content
@@ -48,7 +48,8 @@ Task-1-Ajeetha-Betsy-J/
 ├── script.js                → Hamburger menu interactivity
 ├── README.md                → Project documentation
 └── Greenbites-Screenshots/  → Screenshots for documentation
-\`\`\`
+```
+
 
 ---
 
