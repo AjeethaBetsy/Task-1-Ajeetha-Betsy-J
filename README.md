@@ -35,15 +35,20 @@ The site includes a navigation bar with a mobile hamburger menu, a hero banner, 
 - ✅ Fluid typography using `clamp()`
 - ✅ Hover effects and smooth scroll
 - ✅ Clean, semantic, accessible HTML structure
-- ```
-  
-  Task-1-Ajeetha-Betsy-J/
+
+ ---
+
+## 📁 Project Structure
+
+\`\`\`
+Task-1-Ajeetha-Betsy-J/
 │
-├── index.html      → Page structure and content
-├── style.css       → Styling, responsive breakpoints, color theme
-├── script.js       → Hamburger menu interactivity
-└── README.md       → Project documentation
-```
+├── index.html              → Page structure and content
+├── style.css                → Styling, responsive breakpoints, color theme
+├── script.js                → Hamburger menu interactivity
+├── README.md                → Project documentation
+└── Greenbites-Screenshots/  → Screenshots for documentation
+\`\`\`
 
 ---
 
@@ -110,6 +115,8 @@ No build steps, no npm install, no dependencies — just open and run! ✅
  | 
 
 ![Mobile Footer](Greenbites-Screenshots/mobile-footer.png)
+
+ |
 
 
 > 📌 Screenshot images are stored in the `/Greenbites-Screenshots` folder of this repository.
