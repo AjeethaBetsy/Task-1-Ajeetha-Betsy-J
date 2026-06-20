@@ -53,7 +53,7 @@ The site includes a navigation bar with a mobile hamburger menu, a hero banner, 
 ### Steps
 
 1. **Clone or download this repository**
-git clone https://github.com/AjeethaBetsy/project1-decodelabs.git
+git clone https://github.com/AjeethaBetsy/Task-1-Ajeetha-Betsy-J.git
 2. **Open the folder in VS Code**
 - File → Open Folder → select `project1-decodelabs`
 
@@ -75,39 +75,38 @@ No build steps, no npm install, no dependencies — just open and run! ✅
 |:---:|:---:|
 | 
 
-![Desktop Top](Greenbites-Screenshots/Greenbites-Desktop-Top.png)
+![Desktop Top](Greenbites-Screenshots/desktop-top.png)
 
-| 
+ | 
 
-![Desktop Bottom](Greenbites-Screenshots/Greenbites-Desktop-Bottom.png)
+![Desktop Bottom](Greenbites-Screenshots/desktop-bottom.png)
 
-|
+ |
 
 ### Tablet View (768px)
 | Top Section | Bottom Section |
 |:---:|:---:|
 | 
 
-![Tablet Top](Greenbites-Screenshots/Greenbites-Tablet-Top.png)
+![Tablet Top](Greenbites-Screenshots/tablet-top.png)
 
-| 
+ | 
 
-![Tablet Bottom](Greenbites-Screenshots/Greenbites-Tablet-Bottom.png)
+![Tablet Bottom](Greenbites-Screenshots/tablet-bottom.png)
 
-|
+ |
 
 ### Mobile View (375px)
 | Menu Open | Footer |
 |:---:|:---:|
 | 
 
-![Mobile Menu](Greenbites-Screenshots/Greenbites-Mobile-Menu.png)
+![Mobile Menu](Greenbites-Screenshots/mobile-menu.png)
 
-| 
+ | 
 
-![Mobile Footer](Greenbites-Screenshots/Greenbites-Mobile-Footer.png)
+![Mobile Footer](Greenbites-Screenshots/mobile-footer.png)
 
-|
 
 > 📌 Screenshot images are stored in the `/screenshots` folder of this repository.
 
