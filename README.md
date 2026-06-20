@@ -1,31 +1,138 @@
-# GreenBites - Responsive Frontend Interface
+# 🌿 GreenBites — Responsive Restaurant Website
 
-A responsive restaurant website built with HTML, CSS, and JavaScript, developed as part of the Full Stack Development Industrial Training Kit (Project 1: Responsive Frontend Interface).
+A fully responsive frontend interface for a fictional restaurant, **GreenBites**, built as **Project 1** for the DecodeLabs Full Stack Development Internship (Batch 2026).
 
-## Description
+---
 
-GreenBites is a restaurant website that demonstrates core frontend development concepts including responsive layouts, semantic HTML structure, modern CSS techniques, and interactive UI elements using JavaScript.
+## 📋 Project Description
 
-## Features
+GreenBites is a single-page restaurant website that showcases a clean, modern UI with a fresh green color theme. The project demonstrates mobile-first responsive design principles using semantic HTML5, CSS Grid/Flexbox, and vanilla JavaScript — without relying on any frontend frameworks.
 
-- Responsive design for mobile, tablet, and desktop
-- Navigation bar with hamburger menu
-- Food menu section
-- CSS Grid and Flexbox layout
-- Interactive user interface
+The site includes a navigation bar with a mobile hamburger menu, a hero banner, a 6-item food menu grid, an "About" section, and a footer with contact details — all fully responsive across mobile, tablet, and desktop screen sizes.
 
-## Tech Stack
+---
 
-- HTML5
-- CSS3
-- JavaScript
+## 🛠️ Tech Stack
 
-## How to Run Locally
+| Technology | Purpose |
+|------------|---------|
+| **HTML5** | Semantic page structure (header, nav, main, article, footer) |
+| **CSS3** | Styling, responsive layout (Grid + Flexbox), animations |
+| **JavaScript (Vanilla)** | Hamburger menu toggle, scroll-based nav highlighting |
+| **Google Fonts** | Playfair Display & Nunito typography |
 
-1. Clone this repository
-2. Open `index.html` in your web browser
-3. No installation or build steps required
+> No frameworks or libraries used — built with pure HTML, CSS, and JS as required by the project guidelines.
 
-## Author
+---
 
-Ajeetha Betsy
+## ✨ Features
+
+- ✅ Fully responsive — Mobile (375px), Tablet (768px), Desktop (1024px+)
+- ✅ Mobile hamburger menu with open/close animation
+- ✅ Sticky navigation bar
+- ✅ CSS Grid for menu/about card layouts
+- ✅ Flexbox for navbar and component alignment
+- ✅ Fluid typography using `clamp()`
+- ✅ Hover effects and smooth scroll
+- ✅ Clean, semantic, accessible HTML structure
+- project1-decodelabs/
+│
+├── index.html      → Page structure and content
+├── style.css       → Styling, responsive breakpoints, color theme
+├── script.js       → Hamburger menu interactivity
+└── README.md       → Project documentation
+---
+
+## 🚀 How to Run Locally
+
+### Prerequisites
+- VS Code (or any code editor)
+- Live Server Extension for VS Code
+- A web browser (Chrome / Edge)
+
+### Steps
+
+1. **Clone or download this repository**
+git clone https://github.com/AjeethaBetsy/project1-decodelabs.git
+2. **Open the folder in VS Code**
+- File → Open Folder → select `project1-decodelabs`
+
+3. **Install Live Server extension** (if not already installed)
+- Go to Extensions (Ctrl+Shift+X) → search "Live Server" → Install
+
+4. **Run the project**
+- Right-click `index.html` → "Open with Live Server"
+- Website opens automatically at `http://127.0.0.1:5500`
+
+No build steps, no npm install, no dependencies — just open and run! ✅
+
+---
+
+## 📱 Screenshots
+
+### Desktop View
+| Top Section | Bottom Section |
+|:---:|:---:|
+| 
+
+![Desktop Top](screenshots/desktop-top.png)
+
+| 
+
+![Desktop Bottom](screenshots/desktop-bottom.png)
+
+|
+
+### Tablet View (768px)
+| Top Section | Bottom Section |
+|:---:|:---:|
+| 
+
+![Tablet Top](screenshots/tablet-top.png)
+
+| 
+
+![Tablet Bottom](screenshots/tablet-bottom.png)
+
+|
+
+### Mobile View (375px)
+| Menu Open | Footer |
+|:---:|:---:|
+| 
+
+![Mobile Menu](screenshots/mobile-menu.png)
+
+| 
+
+![Mobile Footer](screenshots/mobile-footer.png)
+
+|
+
+> 📌 Screenshot images are stored in the `/screenshots` folder of this repository.
+
+---
+
+## 🎯 Responsive Breakpoints
+
+| Device | Width | Layout |
+|--------|-------|--------|
+| Mobile | < 768px | Single column, hamburger menu |
+| Tablet | ≥ 768px | 2-column grid, full navbar |
+| Desktop | ≥ 1024px | 3-column grid, expanded spacing |
+
+---
+
+## 👩‍💻 Author
+
+**Ajeetha Betsy**
+DecodeLabs Full Stack Development Internship — Batch 2026
+📍 Coimbatore, India
+
+---
+
+## 📄 License
+
+This project was created for educational purposes as part of the DecodeLabs Internship Program.
+
+---
