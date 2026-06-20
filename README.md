@@ -108,7 +108,7 @@ No build steps, no npm install, no dependencies — just open and run! ✅
 ![Mobile Footer](Greenbites-Screenshots/mobile-footer.png)
 
 
-> 📌 Screenshot images are stored in the `/screenshots` folder of this repository.
+> 📌 Screenshot images are stored in the `/Greenbites-Screenshots` folder of this repository.
 
 ---
 
