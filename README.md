@@ -75,11 +75,11 @@ No build steps, no npm install, no dependencies — just open and run! ✅
 |:---:|:---:|
 | 
 
-![Desktop Top](screenshots/desktop-top.png)
+![Desktop Top](Greenbites-Screenshots/Greenbites-Desktop-Top.png)
 
 | 
 
-![Desktop Bottom](screenshots/desktop-bottom.png)
+![Desktop Bottom](Greenbites-Screenshots/Greenbites-Desktop-Bottom.png)
 
 |
 
@@ -88,11 +88,11 @@ No build steps, no npm install, no dependencies — just open and run! ✅
 |:---:|:---:|
 | 
 
-![Tablet Top](screenshots/tablet-top.png)
+![Tablet Top](Greenbites-Screenshots/Greenbites-Tablet-Top.png)
 
 | 
 
-![Tablet Bottom](screenshots/tablet-bottom.png)
+![Tablet Bottom](Greenbites-Screenshots/Greenbites-Tablet-Bottom.png)
 
 |
 
@@ -101,11 +101,11 @@ No build steps, no npm install, no dependencies — just open and run! ✅
 |:---:|:---:|
 | 
 
-![Mobile Menu](screenshots/mobile-menu.png)
+![Mobile Menu](Greenbites-Screenshots/Greenbites-Mobile-Menu.png)
 
 | 
 
-![Mobile Footer](screenshots/mobile-footer.png)
+![Mobile Footer](Greenbites-Screenshots/Greenbites-Mobile-Footer.png)
 
 |
 
