@@ -35,12 +35,16 @@ The site includes a navigation bar with a mobile hamburger menu, a hero banner, 
 - ✅ Fluid typography using `clamp()`
 - ✅ Hover effects and smooth scroll
 - ✅ Clean, semantic, accessible HTML structure
-- project1-decodelabs/
+- ```
+  
+  Task-1-Ajeetha-Betsy-J/
 │
 ├── index.html      → Page structure and content
 ├── style.css       → Styling, responsive breakpoints, color theme
 ├── script.js       → Hamburger menu interactivity
 └── README.md       → Project documentation
+```
+
 ---
 
 ## 🚀 How to Run Locally
@@ -55,7 +59,7 @@ The site includes a navigation bar with a mobile hamburger menu, a hero banner, 
 1. **Clone or download this repository**
 git clone https://github.com/AjeethaBetsy/Task-1-Ajeetha-Betsy-J.git
 2. **Open the folder in VS Code**
-- File → Open Folder → select `project1-decodelabs`
+- File → Open Folder → select `Task-1-Ajeetha-Betsy-J`
 
 3. **Install Live Server extension** (if not already installed)
 - Go to Extensions (Ctrl+Shift+X) → search "Live Server" → Install
