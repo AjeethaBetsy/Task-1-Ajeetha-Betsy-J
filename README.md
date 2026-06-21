@@ -137,8 +137,6 @@ No build steps, no npm install, no dependencies — just open and run! ✅
 ## 👩‍💻 Author
 
 **Ajeetha Betsy**
-DecodeLabs Full Stack Development Internship — Batch 2026
-📍 Coimbatore, India
 
 ---
 
